@@ -1,8 +1,8 @@
 # yassir-eta-prediction-challenge-for-azubian
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/blob/main/Article.md)
-[![Streamlit App](https://img.shields.io/badge/FastAPI-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/SEER-A_sales_forecasting_app)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@emmanuel.ikogho/eta-prediction-with-ml-and-fastapi-cfbd92de97ef)
+[![Streamlit App](https://img.shields.io/badge/FastAPI-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/ETA-Prediction-with-FastAPI)
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
 ![alt text](image.png)
 
